@@ -23,10 +23,10 @@ repository               : "rostislavhorcik/rostislavhorcik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "myphoto.jpg"
+  name             : "Rostislav Horčík"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Senior researcher at Czech Technical University in Prague"
   location         : "Prague"
   employer         : "Czech Technical University"
   uri              : # URL
