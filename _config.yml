@@ -26,11 +26,11 @@ author:
   avatar           : "myphoto.jpg"
   name             : "Rostislav Horčík"
   pronouns         : # example: "she/her"  
-  bio              : "Senior researcher at Czech Technical University in Prague"
+  bio              : "Senior researcher at Department of Comupter Science, Faculty of Electrical Engineering, Czech Technical University in Prague"
   location         : "Prague"
   employer         : "Czech Technical University"
   uri              : # URL
-  email            : "xhorcik 'at' fel 'dot' cvut 'dot' cz" 
+  email            : "xhorcik@fel.cvut.cz" 
 
   # Academic websites
   academia         : # URL
