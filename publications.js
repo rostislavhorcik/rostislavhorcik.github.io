@@ -217,7 +217,7 @@ window.PUBLICATIONS = [
   },
   {
     "title": "Algebraic semantics: semilinear FL-algebras, Handbook of Mathematical Fuzzy Logic, vol 1, P. Cintula, P. Hájek, and C. Noguera",
-    "authors": "Horčík, R",
+    "authors": "Horčík, Rostislav",
     "venue": "",
     "year": 2011,
     "doi": "",
@@ -225,7 +225,7 @@ window.PUBLICATIONS = [
   },
   {
     "title": "Planning against adversary in zero-sum games: Heuristics for selecting and ordering critical actions",
-    "authors": "Chrpa, Lukas, Rytir, Pavel, Horcik, Rostislav",
+    "authors": "Chrpa, Lukas, Rytir, Pavel, Horčík, Rostislav",
     "venue": "Proceedings of the International Symposium on Combinatorial Search",
     "year": 2020,
     "doi": "10.1609/socs.v11i1.18531",
@@ -233,7 +233,7 @@ window.PUBLICATIONS = [
   },
   {
     "title": "Distributive substructural logics as coalgebraic logics over posets",
-    "authors": "Bılková, Marta, Horcık, Rostislav, Velebil, Jirı",
+    "authors": "Bılková, Marta, Horčík, Rostislav, Velebil, Jirı",
     "venue": "Advances in Modal Logic",
     "year": 2012,
     "doi": "",
@@ -257,7 +257,7 @@ window.PUBLICATIONS = [
   },
   {
     "title": "Algebraic properties of fuzzy logics",
-    "authors": "Horcık, Rostislav",
+    "authors": "Horčík, Rostislav",
     "venue": "Czech Technical University in Prague",
     "year": 2005,
     "doi": "",
@@ -385,7 +385,7 @@ window.PUBLICATIONS = [
   },
   {
     "title": "Perturbing Best Responses in Zero-Sum Games",
-    "authors": "Dziwoki, Adam,Horčik, Rostislav",
+    "authors": "Dziwoki, Adam, Horčík, Rostislav",
     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
     "year": 2026,
     "doi": "10.1609/aaai.v40i20.38731",
