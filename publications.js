@@ -382,5 +382,13 @@ window.PUBLICATIONS = [
     "year": 2025,
     "doi": "10.3233/FAIA251376",
     "kind": "Conference paper"
-  }
+  },
+  {
+    "title": "Perturbing Best Responses in Zero-Sum Games",
+    "authors": "Dziwoki, Adam,Horčik, Rostislav",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2026,
+    "doi": "10.1609/aaai.v40i20.38731",
+    "kind": "Conference paper"
+  },
 ];
