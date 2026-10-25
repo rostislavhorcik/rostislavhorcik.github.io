@@ -21,7 +21,7 @@ window.PUBLICATIONS = [
     "venue": "Mathematical Logic Quarterly",
     "year": 2007,
     "doi": "10.1002/malq.200610044",
-    "kind": ""
+    "kind": "Journal article"
   },
   {
     "title": "Solution of a system of linear equations with fuzzy numbers",
@@ -69,7 +69,7 @@ window.PUBLICATIONS = [
     "venue": "Mathematical Logic Quarterly",
     "year": 2009,
     "doi": "10.1002/malq.200710091",
-    "kind": ""
+    "kind": "Journal article"
   },
   {
     "title": "Solutions to some open problems on totally ordered monoids",
@@ -181,7 +181,7 @@ window.PUBLICATIONS = [
     "venue": "Petr Hájek on Mathematical Fuzzy Logic",
     "year": 2014,
     "doi": "10.1007/978-3-319-06233-4_12",
-    "kind": ""
+    "kind": "Book chapter"
   },
   {
     "title": "Full Lambek calculus with contraction is undecidable",
@@ -261,7 +261,7 @@ window.PUBLICATIONS = [
     "venue": "Czech Technical University in Prague",
     "year": 2005,
     "doi": "",
-    "kind": ""
+    "kind": "Ph.D. thesis"
   },
   {
     "title": "Finite embeddability property for residuated lattices via regular languages",
